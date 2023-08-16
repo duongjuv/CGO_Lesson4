@@ -1,2 +1,2 @@
-# CGO_Lesson4
-Remote Car 
+# CGO_Lesson2
+ bai tap learnCGO
